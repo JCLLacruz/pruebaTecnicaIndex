@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import Form from '../Form/Form';
 import * as Yup from 'yup';
 import './ViewForm.scss';
-import { set } from 'mongoose';
 
 const userValues ={
     inputs: [
