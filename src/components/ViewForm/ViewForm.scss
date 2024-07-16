@@ -1,0 +1,25 @@
+$color-text: #000000;
+$error-color: #ee0004;
+$active-color: #543fd3;
+$background-color:  #ffffff;
+$border-color: #949494;
+$shadowColor: #5240ad;
+
+.buttonsDiv{
+    display: flex;
+    margin-left: 1rem;
+    gap: 2rem
+}
+button {
+    padding: 10px 20px;
+    background-color: $active-color;
+    color: $background-color;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+
+    &:hover {
+        background-color: $active-color;
+    }
+}

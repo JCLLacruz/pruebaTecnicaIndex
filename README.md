@@ -24,6 +24,6 @@ Sigue estos pasos para clonar el repositorio y ejecutar el proyecto localmente.
     ```
     npm run dev
     ```
-6. Abre tu navegador web y visita `http://localhost:3000` para ver el resultado.
+6. En la terminal podrás mantener pulsada la tecla control y darle click al enlace que abre la aplicación.
 
 ¡Listo! Ahora puedes explorar y modificar el proyecto localmente.
